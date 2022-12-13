@@ -1,16 +1,10 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
 import PySimpleGUI as sg
 import pandas as pd
 import docx, time, glob
-import numpy as np
 from docx import Document
 from docx.shared import Inches, RGBColor, Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from plotnine import *
-from palettable.colorbrewer.qualitative import Dark2_7
-
 
 sg.theme('dark grey 9') # Add a touch of color
 
