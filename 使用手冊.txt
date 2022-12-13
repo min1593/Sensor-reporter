@@ -11,3 +11,5 @@ Folder Path for Sensitivity: 選擇示波器的數據的資料夾
 1. exe 檔案 (python檔案)需跟 INSPECTION_Temp.docx 放在同一路徑
 2. First S/N 需進行填寫
 3. Sensor 目前在 Frequency 以標準 -40dBm 為設定值，若後續規格有調整，需再更新
+4. 頻譜分析儀檔案命名方式以 S/N 末四碼為主
+5. 示波器檔案命名方式以後四碼為主 (ex: T4-CT40000414368. TM-CTM00001234)
