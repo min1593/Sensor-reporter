@@ -1,0 +1,13 @@
+User Manual
+
+Sensor: 填入 Sensor 類別 (TM. TEM. T4. TEC. HFCT)
+First S/N: 填入第一顆 S/N 料號 (連號最小號碼) 
+Folder Path for Frequency: 選擇頻譜分析儀的數據的資料夾
+Folder Path for Sensitivity: 選擇示波器的數據的資料夾
+點選 "Continue" 進行檔案生成.
+生成出來的檔案會顯示 Sensor_test_日期，再依據出貨資訊填寫 cover 頁面.
+
+注意:
+1. exe 檔案 (python檔案)需跟 INSPECTION_Temp.docx 放在同一路徑
+2. First S/N 需進行填寫
+3. Sensor 目前在 Frequency 以標準 -40dBm 為設定值，若後續規格有調整，需再更新
